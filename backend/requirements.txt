@@ -1,0 +1,15 @@
+Django
+
+djangorestframework
+
+django-cors-headers
+
+Pillow
+
+stripe
+
+python-decouple
+
+psycopg2-binary
+
+gunicorn
